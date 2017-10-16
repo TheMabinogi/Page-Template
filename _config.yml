@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+name: Page Template
+description: Template Description
+author: Mabinogi
+author_home: https://github.com/TheMabinogi
+location: https://github.com/TheMabinogi/PageTest
+custom_wiki: true
+custom_release: true
